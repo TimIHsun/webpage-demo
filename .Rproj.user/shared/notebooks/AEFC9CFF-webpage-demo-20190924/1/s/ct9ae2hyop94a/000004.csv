@@ -1,0 +1,5 @@
+"0","library(stringr)"
+"0","str_replace_all(indexContent,"
+"0","                c(""Mark Parker"" = ""Tim"","
+"0","                  ""hero.png""=""Times_TimCook_309_03-RGB.jpg"""
+"0","                  ))-> indexContentNew"
